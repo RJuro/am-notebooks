@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://rjuro.com/am-notebooks/jupyter/2021/04/17/_2020-02-20-test.html</loc>
-<lastmod>2021-04-17T00:00:00-05:00</lastmod>
+<loc>https://rjuro.github.io/am-notebooks/about/</loc>
 </url>
 <url>
-<loc>https://rjuro.com/am-notebooks/about/</loc>
+<loc>https://rjuro.github.io/am-notebooks/</loc>
 </url>
 <url>
-<loc>https://rjuro.com/am-notebooks/</loc>
+<loc>https://rjuro.github.io/am-notebooks/search/</loc>
 </url>
 <url>
-<loc>https://rjuro.com/am-notebooks/search/</loc>
-</url>
-<url>
-<loc>https://rjuro.com/am-notebooks/categories/</loc>
+<loc>https://rjuro.github.io/am-notebooks/categories/</loc>
 </url>
 </urlset>
