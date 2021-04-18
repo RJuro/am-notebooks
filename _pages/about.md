@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Read more at https://rjuro.com
+Read more at ![https://rjuro.com](https://rjuro.com)
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
