@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Title",
-            "content": "",
-            "url": "https://rjuro.github.io/am-notebooks/2021/04/20/intro.html",
-            "relUrl": "/2021/04/20/intro.html",
+            "title": "Intro til Anvendt Matematik og Python opfriskning",
+            "content": "Intro til Anvendt Matematik og Python opfriskning . Matematik bruges i finance, økonomistyring, data science, tech og meget andet - men også helt sikkert senere hvis I skal videre med en kandidat. | Analytiske skills er meget eftertragtede på arbejdsmarkedet Ny DI-analyse viser, at den digitale omstilling i virksomheder ikke kan drives af it-specialisterne alene. Der er i stærkt stigende omfang behov for, at samfundsvidenskabelige profiler også har gode digitale kompetencer. . | . Hvad sker her fra idag til 21 Juni? . overblik over linkeær algebra og calculus (ikke meget mere end B niveau) | Brug gerne fx https://www.webmatematik.dk/ | $ LaTeX$ cheat-sheet | Markdown cheatsheet | Lære at bruge matematik - ikke være matematiker¨ | lære fra et data/computer science perspektiv, hvor det handler mest at kunne implementere matematik direkte og bruge til fx at bygge en søgemaskine, recommender system, visualisere eller automatisere BI | &quot;computational tilgang&quot; - Python som tool | Danglish | .",
+            "url": "https://rjuro.github.io/am-notebooks/intro/forel%C3%A6sning/2021/04/20/intro.html",
+            "relUrl": "/intro/forel%C3%A6sning/2021/04/20/intro.html",
             "date": " • Apr 20, 2021"
         }
         
